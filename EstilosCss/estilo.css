@@ -1,0 +1,22 @@
+.contenedor{
+    /* width: 500px; */
+    /* margin-left: 10%;
+    /* margin-right: 10%; */ */
+       
+}
+
+img{
+    height: 500px;
+
+}
+
+.carousel-inner{
+    background-size: contain;
+    
+}
+
+.botonbt{
+    margin-left: 5px;
+    position: relative;
+    left: 1000px;
+}
